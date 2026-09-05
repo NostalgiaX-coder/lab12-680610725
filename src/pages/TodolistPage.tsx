@@ -53,8 +53,8 @@ export default function TodolistPage() {
           {/* TODO: เปลี่ยน fullName / studentId ให้เป็นของตัวเอง */}
           <Footer
             year={2026}
-            fullName="chanadda thanyaratthanon"
-            studentId="6706200999"
+            fullName="Settawut Samaket"
+            studentId="680610725"
           />
         </div>
       </div>
