@@ -19,15 +19,13 @@ export default function Sidebar({ username, type }: SidebarProps) {
                 <span className="d-md-inline px-2">Todo List</span>
               </a>
             </li>
-<li className="nav-item dropdown">
-  
-    className="nav-link dropdown-toggle"
-    role="button"
-    data-bs-toggle="dropdown"
-    aria-expanded="false"
-  >
-    <span className="d-md-inline px-2">My Stuffs</span>
-  </a>
+            <li className="nav-item dropdown">
+<a             
+                className="nav-link dropdown-toggle"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
                 <span className="d-md-inline px-2">My Stuffs</span>
               </a>
               <ul className="dropdown-menu p-2">
