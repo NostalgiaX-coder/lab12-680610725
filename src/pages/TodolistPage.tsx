@@ -32,7 +32,7 @@ export default function TodolistPage() {
       <div className="row h-100">
         <div className="col-2 p-0">
           {/* TODO: เปลี่ยน username / type ให้เป็นของตัวเอง */}
-          <Sidebar username="chanadda" type="admin" />
+          <Sidebar username="settawut" type="admin" />
         </div>
 
         <div className="col-10 p-0 d-flex flex-column min-vh-100">
